@@ -1,0 +1,23 @@
+{
+	"id" : 4,
+	"name" : "小鸣",
+	"textureName": "Ball_Naruto",
+	"maxLevel" : 3,
+	"emitSpeed" : [1000, 1100, 1200],
+	"ballRadius" : [22, 24, 26],
+	"displayScale": 1.1,
+	"price": [2000, 2000, 2000],
+
+	"probability": [8, 8, 8],
+	"firstBallProbability": 0,
+
+	"skill_SplitBallOnHit_Rate" : [0.2, 0.2, 0.2],
+	"skill_SplitBallOnHit_Count" : [1, 2, 3],
+	"skill_SplitBallOnHit_Angle" : [30],
+
+	"skillDes" : "忍者之王！碰撞时一定概率释放影分身",
+	"skillHead" : "影分身",
+	"skillLevellDes" : ["2个", "3个", "4个"],
+
+	"Describe" : ["40%概率碰撞分裂出2个球", "50%概率碰撞分裂出3个球", "60%概率碰撞分裂出4个球"]		
+}

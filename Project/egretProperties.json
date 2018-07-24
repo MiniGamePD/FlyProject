@@ -1,0 +1,42 @@
+{
+	"engineVersion": "5.2.4",
+	"compilerVersion": "5.2.4",
+	"template": {},
+	"target": {
+		"current": "web"
+	},
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "assetsmanager"
+		},
+		{
+			"name": "socket"
+		},
+		{
+			"name": "promise"
+		},
+		{
+			"name": "Particle",
+			"path": "../libsrc/Particle"
+		},
+		{
+			"name": "physics",
+			"path": "../libsrc/Physics"
+		}
+	],
+	"targets": {
+		"android": {
+			"appname": "MeiLeXiao",
+			"packagename": "com.unicorn.meilexiao"
+		}
+	}
+}

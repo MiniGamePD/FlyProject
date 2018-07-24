@@ -1,0 +1,18 @@
+{
+	"id" : 1,
+	"name" : "白球",
+	"textureName": "Ball_White",
+	"maxLevel" : 3,
+	"emitSpeed" : [1000, 1100, 1200],
+	"ballRadius" : [18, 22, 26],
+	"displayScale": 0.85,
+	"price": [500, 500, 500],
+
+	"probability": [12, 12, 12],
+	"firstBallProbability": 0,
+
+	"skillDes" : "一个白色的球，没有技能",
+
+	"Describe" : ["想要技能就来抽球吧！"]
+
+}
